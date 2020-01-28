@@ -50,6 +50,7 @@ for (meth, libnm, modu) in [
                       (:atanh,:atanh,:Base),
                       (:acoth,:acoth,:Base),
                       (:gamma,:gamma,:SpecialFunctions),
+                      (:erf,:erf,:SpecialFunctions),
                       (:log,:log,:Base),
                       (:sqrt,:sqrt,:Base),
                       (:exp,:exp,:Base),
